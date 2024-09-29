@@ -80,7 +80,8 @@ button {
 	padding: 100px 90px 50px 90px;
 
 }
-.produtos p{
+
+.produtos p {
 	margin-bottom: 25px;
 	font-size: 20px;
 	color: #2E68FF;
@@ -100,7 +101,6 @@ figcaption {
 
 .anuncio {
 	display: flex;
-	gap: 80px;
 	background-color: #2E68FF;
 	font-size: 54px;
 	padding: 96px 100px 96px 100px;
@@ -111,7 +111,10 @@ figcaption {
 
 .anuncio section {
 	width: 568px;
+}
 
+.raio {
+	padding-left: 100px;
 }
 
 .text1 {
@@ -151,6 +154,7 @@ footer img.logo {
 	padding: 35px 0px 0px 90px;
 	height: 20px;
 }
-footer ol li a{
+
+footer ol li a {
 	color: white;
 }
